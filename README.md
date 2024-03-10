@@ -4,6 +4,7 @@
 
 <section>
   <h2>Descrição do Projeto</h2>
-  <p><em>Simples website produzido como prática do uso de CSS Flexbox.</em></p> 
+  <p><em>Simples website produzido como prática do uso de CSS Flexbox.</em></p>
+  <p><em>O site pode ser visualizado <a href="https://wet-leg-website.vercel.app/">aqui</a></em></p>
   <p><em>(OBS: não está responsivo).</em></p>
 </section>
