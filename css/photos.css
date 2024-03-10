@@ -1,0 +1,45 @@
+.photos {
+    padding: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+.top-row,
+.bottom-row {
+    display: flex;
+}
+
+.photos img {
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.quadro-maior {
+    width: 497px;
+    height: 433px;
+}
+
+.quadro-menor {
+    width: 330px;
+    height: 370px;
+}
+
+.quadro-menor-redondo {
+    width: 310px;
+    height: 440px;
+}
+
+.top-row img:not(:last-child) {
+    margin-right: 20px;
+}
+
+.bottom-row img:not(:last-child) {
+    margin-right: 20px;
+}
+
+.bottom-row {
+    margin-top: 20px;
+}

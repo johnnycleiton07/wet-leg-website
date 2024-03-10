@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+.tour-dates{
+    background-color: #9FB5A1;
+    display: flex;
+    flex-direction: column;
+    height: 688px;
+}
+
+
+.tour-dates h1{
+    font-size: 40px;
+    color: #1A622A;
+    text-align: center;
+    margin: 50px;
+}
+
+.tour-dates-lista{
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    color: #1E1E1E;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 50px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.tour-dates-lista-dentro-da-lista {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.tour-dates-lista-fonte{
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+}
+
+.ticket-button {
+    border: 1px solid #1E1E1E;
+    background-color: transparent;
+    padding: 5px 35px;
+    border-radius: 2px;
+    cursor: pointer;
+}
+
+.ticket-button:hover {
+    border: 2px solid #E01F77;
+    color: #E01F77;
+}

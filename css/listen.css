@@ -1,0 +1,18 @@
+.listen {
+    background-color: #9FB5A1;
+    display: flex;
+    flex-direction: column;
+    height: 688px;
+}
+
+.listen h1{
+    font-size: 40px;
+    color: #1A622A;
+    text-align: center;
+    margin: 50px;
+}
+
+.listen iframe {
+    align-self: center;
+    margin-bottom: 60px;
+}

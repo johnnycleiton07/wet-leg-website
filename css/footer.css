@@ -1,0 +1,12 @@
+.footer{
+    display: flex;
+    background: #1A622A;
+    height: 50px;
+  }
+  
+.footer p{
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    color: #fff;
+    margin-left: 70%;
+  }

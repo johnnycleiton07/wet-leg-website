@@ -1,0 +1,18 @@
+.watch {
+    background-color: #ffffe0;
+    display: flex;
+    flex-direction: column;
+    height: 688px;
+}
+
+.watch h1{
+    font-size: 40px;
+    color: #1A622A;
+    text-align: center;
+    margin: 50px;
+}
+
+.watch iframe {
+    align-self: center;
+    margin-bottom: 60px;
+}

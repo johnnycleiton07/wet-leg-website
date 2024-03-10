@@ -1,0 +1,23 @@
+.titulo-da-banda img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 220px;
+}
+
+.redes-sociais {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    align-items: center;
+    background-color: #1A622A;
+    height: 68px;
+}
+
+.redes-sociais img{
+    padding: 5px;
+    justify-content: space-evenly;
+    padding: 5px 5px;
+    display: block;
+}
