@@ -1,10 +1,10 @@
-###### Português (BR):
+###### English (EN):
 
-<h1>WET LEG</h1>
+<img height="50" alt="titulo da banda" src="img/titulo-banda.png">
 
 <section>
-  <h2>Descrição do Projeto</h2>
-  <p><em>Simples website produzido como prática do uso de CSS Flexbox.</em></p>
-  <p><em>O site pode ser visualizado <a href="https://wet-leg-website.vercel.app/">aqui</a></em></p>
-  <p><em>(OBS: não está responsivo).</em></p>
+  <h2>Project Description</h2>
+  <p><em>Simple website produced as a practice of using CSS Flexbox.</em></p>
+  <p><em>The website can be viewed <a href="https://wet-leg-website.vercel.app/">here</a>.</em></p>
+  <p><em>(NOTE: not responsive).</em></p>
 </section>
