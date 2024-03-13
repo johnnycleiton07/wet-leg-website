@@ -9,6 +9,6 @@
 
 <div align="center">
   <img height="400" alt="wetleg-website" src="img/site.gif">
-  <p><em>The website can be viewed <a href="https://wet-leg-website.vercel.app/" target=”_blank”>here</a>. (NOTE: not responsive)</em></p>
+  <p><em>The website can be viewed <a href="https://wet-leg-website.vercel.app/">here</a>. (NOTE: not responsive)</em></p>
 </div>
 
