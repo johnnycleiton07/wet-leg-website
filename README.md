@@ -1,14 +1,20 @@
 ###### English (EN):
 
-<img height="50" alt="titulo da banda" src="img/titulo-banda.png">
+<img height="50" alt="titulo da banda" src="assets-readme/logo-wetleg.png">
 
 <section>
   <h2>Project Description</h2>
-  <p><em>Simple website produced as a practice of using CSS Flexbox.</em></p>
+  <p>HTML, CSS</p>
+  <p>Simple website produced as a practice of using CSS Flexbox.</p>
 </section>
 
+<section>
 <div align="center">
-  <img height="400" alt="wetleg-website" src="img/site.gif">
-  <p><em>The website can be viewed <a href="https://wet-leg-website.vercel.app/">here</a>. (NOTE: not responsive)</em></p>
+  <img height="400" alt="wetleg-website" src="assets-readme/wetleg-site.gif">
 </div>
+</section>
 
+<section>
+  <h2>Deploy</h2>
+  <p>https://wet-leg-website.vercel.app/</p>
+</section>
