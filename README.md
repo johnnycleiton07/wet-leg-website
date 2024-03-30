@@ -1,6 +1,6 @@
 ###### English (EN):
 
-<img height="50" alt="titulo da banda" src="assets-readme/logo-wetleg.png">
+<img height="50" alt="titulo da banda" src="assets-readme/titulo-banda.png">
 
 <section>
   <h2>Project Description</h2>
