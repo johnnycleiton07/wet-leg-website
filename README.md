@@ -16,5 +16,5 @@
 
 <section>
   <h2>Deploy</h2>
-  <p>https://wet-leg-website.vercel.app/</p>
+  <p><a href="https://wet-leg-website.vercel.app" target="_blank">wet-leg-website.vercel.app</p>
 </section>
