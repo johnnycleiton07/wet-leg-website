@@ -5,7 +5,7 @@
 <section>
   <h2>Project Description</h2>
   <p>HTML, CSS</p>
-  <p>Simple website produced as a practice of using CSS Flexbox.</p>
+  <p>Simple website produced as a practice of using CSS Flexbox (no responsiveness).</p>
 </section>
 
 <section>
