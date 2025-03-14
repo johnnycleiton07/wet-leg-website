@@ -8,28 +8,28 @@
 </head>
 <body>
     <header class="header">
-        <nav>
+        <button class="menu-toggle" aria-label="Toggle menu">&#9776;</button>
+        <nav class="header-nav">
             <ul class="header-menu">
-                <li><a href=#tourdates>tour dates</a></li>
-                <li><a href=#listen>listen</a></li>
-                <li><a href=#watch>watch</a></li>
+                <li><a href="#tourdates">tour dates</a></li>
+                <li><a href="#listen">listen</a></li>
+                <li><a href="#watch">watch</a></li>
             </ul>
         </nav>
     </header>
 
     <main class="titulo-da-banda">
-        <img src="./img/titulo-banda.png" alt="wet leg" width="750px">
+        <img src="./img/titulo-banda.png" alt="wet leg" class="titulo-banda-img" width="750px">
 
-        <div>
+        <div class="parte-verde">
             <ul class="redes-sociais">
-                <li><a href="https://www.instagram.com/wetlegband/" target=”_blank”><img src="./img/instagram.png" alt="instagram"></a></li>
-                <li><a href="https://twitter.com/wetlegband" target=”_blank”><img src="./img/twitter.png" alt="twitter"></a></li>
-                <li><a href="https://www.tiktok.com/@wetlegband" target=”_blank”><img src="./img/tiktok.png" alt="tiktok"></a></li>
-                <li><a href="https://www.youtube.com/channel/UCIuyI9I_DlDwxykE7Kt7h2g" target=”_blank”><img src="./img/youtube.png" alt="youtube"></a></li>
-                <li><a href="https://www.facebook.com/WetLeg/" target=”_blank”><img src="./img/facebook.png" alt="facebook"></a></li>
-                <li><a href="https://open.spotify.com/intl-pt/artist/2TwOrUcYnAlIiKmVQkkoSZ?si=O0b03s3nTKSc02DrihvRQw" target=”_blank”><img src="./img/spotify.png" alt="spotify"></a></li>
+                <li><a href="https://www.instagram.com/wetlegband/" target="_blank"><img src="./img/instagram.png" alt="instagram"></a></li>
+                <li><a href="https://twitter.com/wetlegband" target="_blank"><img src="./img/twitter.png" alt="twitter"></a></li>
+                <li><a href="https://www.tiktok.com/@wetlegband" target="_blank"><img src="./img/tiktok.png" alt="tiktok"></a></li>
+                <li><a href="https://www.youtube.com/channel/UCIuyI9I_DlDwxykE7Kt7h2g" target="_blank"><img src="./img/youtube.png" alt="youtube"></a></li>
+                <li><a href="https://www.facebook.com/WetLeg/" target="_blank"><img src="./img/facebook.png" alt="facebook"></a></li>
+                <li><a href="https://open.spotify.com/intl-pt/artist/2TwOrUcYnAlIiKmVQkkoSZ?si=O0b03s3nTKSc02DrihvRQw" target="_blank"><img src="./img/spotify.png" alt="spotify"></a></li>
             </ul>
-
         </div>
 
         <div class="tour-dates" id="tourdates">
@@ -37,28 +37,34 @@
 
             <ul class="tour-dates-lista">
                 <li>13 JUN</li>
-                <li><ul class="tour-dates-lista-dentro-da-lista">
-                    <li>emirates old trafford</li>
-                    <li class="tour-dates-lista-fonte">manchester city, UK</li>
-                </ul></li>
+                <li>
+                    <ul class="tour-dates-lista-dentro-da-lista">
+                        <li>emirates old trafford</li>
+                        <li class="tour-dates-lista-fonte">manchester city, UK</li>
+                    </ul>
+                </li>
                 <li><span class="ticket-button">ticket</span></li>
             </ul>
 
             <ul class="tour-dates-lista">
                 <li>26 JUL</li>
-                <li><ul class="tour-dates-lista-dentro-da-lista">
-                    <li>truck festival 2024</li>
-                    <li class="tour-dates-lista-fonte">steventon, UK</li>
-                </ul></li>
+                <li>
+                    <ul class="tour-dates-lista-dentro-da-lista">
+                        <li>truck festival 2024</li>
+                        <li class="tour-dates-lista-fonte">steventon, UK</li>
+                    </ul>
+                </li>
                 <li><span class="ticket-button">ticket</span></li>
             </ul>
 
             <ul class="tour-dates-lista">
                 <li>23 AUG</li>
-                <li><ul class="tour-dates-lista-dentro-da-lista">
-                    <li>victorious festival 2024</li>
-                    <li class="tour-dates-lista-fonte">old portsmouth, UK</li>
-                </ul></li>
+                <li>
+                    <ul class="tour-dates-lista-dentro-da-lista">
+                        <li>victorious festival 2024</li>
+                        <li class="tour-dates-lista-fonte">old portsmouth, UK</li>
+                    </ul>
+                </li>
                 <li><span class="ticket-button">ticket</span></li>
             </ul>
         </div>
@@ -67,7 +73,6 @@
             <div class="top-row">
                 <img src="img/photos/QUADRO1.png" alt="QUADRO 1" class="quadro-maior">
                 <img src="img/photos/QUADRO3.png" alt="QUADRO 3" class="quadro-menor">
-                
             </div>
             <div class="bottom-row">
                 <img src="img/photos/QUADRO5.png" alt="QUADRO 5" class="quadro-menor-redondo">
@@ -89,5 +94,6 @@
             <p>© 2024 All rights reserved</p>
         </footer>        
     </main>
+    <script src="style.js"></script>
 </body>
 </html>
