@@ -24,7 +24,7 @@
     }
 
     .tour-dates-lista-dentro-da-lista {
-        margin-bottom: 20px; /* Novidade: Aumenta o espaçamento entre o texto e o botão */
+        margin-bottom: 10px; /* Novidade: Aumenta o espaçamento entre o texto e o botão */
     }
 
     .photos {
@@ -79,7 +79,7 @@
     }
 
     .tour-dates-lista-dentro-da-lista {
-        margin-bottom: 15px; /* Novidade: Ajusta o espaçamento para telas menores */
+        margin-bottom: 2px; /* Novidade: Ajusta o espaçamento para telas menores */
     }
 
     .quadro-maior, .quadro-menor, .quadro-menor-redondo {
