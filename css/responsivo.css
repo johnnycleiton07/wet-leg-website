@@ -1,4 +1,3 @@
-/* CSS Responsivo */
 @media (max-width: 768px) {
     .header-menu {
         flex-direction: column;
@@ -20,11 +19,11 @@
         flex-direction: column;
         align-items: center;
         margin: 20px;
-        gap: 15px; /* Novidade: Aumenta o espaçamento entre os itens da lista */
+        gap: 15px;
     }
 
     .tour-dates-lista-dentro-da-lista {
-        margin-bottom: 10px; /* Novidade: Aumenta o espaçamento entre o texto e o botão */
+        margin-bottom: 10px;
     }
 
     .photos {
@@ -40,22 +39,22 @@
     .quadro-maior, .quadro-menor, .quadro-menor-redondo {
         width: 100%;
         height: auto;
-        max-width: 600px; /* Novidade: Aumenta o tamanho máximo das imagens */
-        margin-bottom: 20px; /* Novidade: Adiciona espaçamento entre as imagens */
+        max-width: 600px;
+        margin-bottom: 20px;
     }
 
     .listen iframe {
         width: 100%;
         height: auto;
-        width: 90%; /* Novidade: Aumenta a largura para ocupar mais espaço */
-        height: 650px; /* Novidade: Aumenta a altura */
+        width: 90%;
+        height: 650px; 
     }
 
     .watch iframe {
         width: 100%;
         height: auto;
-        width: 95%; /* Novidade: Aumenta a largura para ocupar mais espaço */
-        height: 550px; /* Novidade: Aumenta a altura */
+        width: 95%; 
+        height: 550px; 
     }
 
     .footer p {
@@ -79,21 +78,21 @@
     }
 
     .tour-dates-lista-dentro-da-lista {
-        margin-bottom: 2px; /* Novidade: Ajusta o espaçamento para telas menores */
+        margin-bottom: 2px; 
     }
 
     .quadro-maior, .quadro-menor, .quadro-menor-redondo {
-        max-width: 100%; /* Novidade: Permite que as imagens ocupem toda a largura disponível */
+        max-width: 100%;
     }
 
     .listen iframe {
-        width: 100%; /* Novidade: Ocupa toda a largura disponível */
-        height: 500px; /* Novidade: Ajusta a altura para telas menores */
+        width: 100%; 
+        height: 500px;
     }
 
     .watch iframe {
-        width: 100%; /* Novidade: Ocupa toda a largura disponível */
-        height: 300px; /* Novidade: Ajusta a altura para telas menores */
+        width: 100%; 
+        height: 300px; 
     }
 }
 
@@ -114,13 +113,13 @@
 
 /* Estilo para o menu quando aberto */
 .header-menu.open {
-    background-color: #1A622A; /* Cor verde */
+    background-color: #1A622A; 
     display: flex;
     flex-direction: column;
     align-items: center;
     width: 100%;
     position: absolute;
-    top: 0px; /* Ajuste conforme necessário */
+    top: 0px; 
     left: 0;
     z-index: 1;
 }
@@ -137,14 +136,14 @@
 
     .titulo-banda-img {
         width: 40%;
-        max-width: 400px; /* Define um limite máximo para a largura */
+        max-width: 400px; 
         padding: 20px;
-        margin-top: 340px; /* Espaçamento superior */
-        margin-bottom: 340px; /* Espaçamento inferior */
+        margin-top: 340px; 
+        margin-bottom: 340px; 
     }
 
     .redes-sociais img {
-        width: 30px; /* Ajuste conforme necessário */
+        width: 30px; 
         height: 30px;
     }
 }
