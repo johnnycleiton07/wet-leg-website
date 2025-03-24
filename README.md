@@ -8,13 +8,19 @@
   <p>Simple website produced as a practice of using CSS Flexbox.</p>
 </section>
 
-<section>
 <div align="center">
-  <img height="400" alt="wetleg-website" src="assets-readme/wetleg-site.gif">
-</div>
-</section>
 
-<section>
-  <h2>Mobile</h2>
-  <img height="400" alt="wetleg-website-mobile" src="assets-readme/wetleg-site-mobile.gif">
-</section>
+| ![Wet Leg Website](/assets-readme/wetleg-site.gif) |
+|:--:|
+| *Desktop version* |
+
+</div>
+
+
+<div align="center">
+  
+| ![Wet Leg Website](/assets-readme/wetleg-website-mobile.gif) |
+|:--:|
+| *Mobile version* |
+
+</div>
