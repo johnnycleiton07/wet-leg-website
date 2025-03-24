@@ -4,8 +4,8 @@
 
 <section>
   <h2>Project Description</h2>
-  <p>HTML, CSS</p>
-  <p>Simple website produced as a practice of using CSS Flexbox (no responsiveness).</p>
+  <p>Deploy: <a href="https://wet-leg-website.vercel.app" target="_blank">wet-leg-website.vercel.app</a></p>
+  <p>Simple website produced as a practice of using CSS Flexbox.</p>
 </section>
 
 <section>
@@ -15,6 +15,6 @@
 </section>
 
 <section>
-  <h2>Deploy</h2>
-  <a href="https://wet-leg-website.vercel.app" target="_blank">wet-leg-website.vercel.app</a>
+  <h2>Mobile</h2>
+  <img height="400" alt="wetleg-website-mobile" src="assets-readme/wetleg-site-mobile.gif">
 </section>
